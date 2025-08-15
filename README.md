@@ -56,19 +56,33 @@ Se quiser rodar localmente, siga estes passos:
 ```bash
 git clone https://github.com/fabinhoz/estatistica.git
 cd SEU_REPOSITORIO
+```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado**
+```bash
 python -m venv venv
 source venv/bin/activate    # Linux/Mac
 venv\Scripts\activate       # Windows
-
-
-
-
 ```
+
+3. **Instale as dependências**
+```bash
+pip install -r requirements.txt
+```
+
+4. **Execute o app**
+```bash
+streamlit run estatistica.py
+```
+
+5. **Abra no navegador:**
+http://localhost:8501
+
+
 ---
 
 💡 *Feito por fabinhoz com Python, Café ☕ e muita curiosidade por dados.*
+
 
 
 
