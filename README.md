@@ -41,10 +41,10 @@ Você pode usar o app diretamente no navegador, sem instalar nada:
 ![Entrada e visão geral](assets/main.png)
 
 ### Histogramas interativos
-![Histograma](https://via.placeholder.com/800x400.png?text=Exemplo+2)
+![Histograma](assets/histograma.png)
 
 ### Boxplot com quartis e outliers
-![Boxplot](https://via.placeholder.com/800x400.png?text=Exemplo+3)
+![Boxplot](assets/boxplot.png)
 
 ---
 
@@ -56,10 +56,20 @@ Se quiser rodar localmente, siga estes passos:
 ```bash
 git clone https://github.com/fabinhoz/estatistica.git
 cd SEU_REPOSITORIO
+
+2. **Crie um ambiente virtual (opcional, mas recomendado**
+python -m venv venv
+source venv/bin/activate    # Linux/Mac
+venv\Scripts\activate       # Windows
+
+
+
+
 ```
 ---
 
 💡 *Feito por fabinhoz com Python, Café ☕ e muita curiosidade por dados.*
+
 
 
 
