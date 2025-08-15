@@ -1,6 +1,6 @@
 # 📊 Estatística Fácil e Visual
 
-Um app interativo desenvolvido com [Streamlit](https://streamlit.io/) para aprender conceitos fundamentais de **estatística** de forma prática, visual e intuitiva.  
+Um app interativo desenvolvido em Python e utilizando [Streamlit](https://streamlit.io/) para aprender conceitos fundamentais de **estatística** de forma prática, visual e intuitiva.  
 Ideal para estudantes, professores, analistas de dados ou qualquer pessoa curiosa sobre **média, mediana, moda, variância, desvio padrão e percentis**.
 
 ---
@@ -27,7 +27,6 @@ Você pode usar o app diretamente no navegador, sem instalar nada:
 - Boxplots
 - Destaque visual para média, mediana, moda e dispersão
 ✅ Explicações detalhadas de cada conceito
-✅ Fórmulas matemáticas renderizadas com **LaTeX**
 ✅ Interface amigável e responsiva
 
 ---
@@ -51,5 +50,6 @@ Se quiser rodar localmente, siga estes passos:
 
 1. **Clone este repositório**
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/fabinhoz/estatistica.git
 cd SEU_REPOSITORIO
+
