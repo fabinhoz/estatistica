@@ -15,6 +15,7 @@ Você pode usar o app diretamente no navegador, sem instalar nada:
 ## ✨ Funcionalidades
 
 ✅ Entrada de dados simples: digite números separados por vírgula  
+
 ✅ Cálculo automático de:
 - Média
 - Mediana
@@ -22,11 +23,14 @@ Você pode usar o app diretamente no navegador, sem instalar nada:
 - Variância
 - Desvio padrão
 - Percentis (Q1, Q2, Q3)
+
 ✅ Gráficos interativos com **Plotly**:
 - Histogramas
 - Boxplots
 - Destaque visual para média, mediana, moda e dispersão
+
 ✅ Explicações detalhadas de cada conceito
+
 ✅ Interface amigável e responsiva
 
 ---
@@ -53,4 +57,7 @@ Se quiser rodar localmente, siga estes passos:
 git clone https://github.com/fabinhoz/estatistica.git
 cd SEU_REPOSITORIO
 
+---
+
+💡 *Feito por fabinhoz com Python, Café ☕ e muita curiosidade por dados.*
 
