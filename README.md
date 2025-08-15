@@ -38,7 +38,7 @@ Você pode usar o app diretamente no navegador, sem instalar nada:
 ## 📷 Capturas de Tela
 
 ### Entrada e visão geral
-![Entrada e visão geral](https://via.placeholder.com/800x400.png?text=Exemplo+1)
+![Entrada e visão geral](assets/main.png)
 
 ### Histogramas interativos
 ![Histograma](https://via.placeholder.com/800x400.png?text=Exemplo+2)
@@ -60,5 +60,6 @@ cd SEU_REPOSITORIO
 ---
 
 💡 *Feito por fabinhoz com Python, Café ☕ e muita curiosidade por dados.*
+
 
 
