@@ -56,8 +56,9 @@ Se quiser rodar localmente, siga estes passos:
 ```bash
 git clone https://github.com/fabinhoz/estatistica.git
 cd SEU_REPOSITORIO
-
+```
 ---
 
 💡 *Feito por fabinhoz com Python, Café ☕ e muita curiosidade por dados.*
+
 
