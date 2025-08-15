@@ -8,7 +8,7 @@ Ideal para estudantes, professores, analistas de dados ou qualquer pessoa curios
 ## 🚀 Demonstração Online
 Você pode usar o app diretamente no navegador, sem instalar nada:
 
-🔗 **[Abrir no Streamlit Cloud](https://share.streamlit.io/SEU_USUARIO/SEU_REPOSITORIO/main/app.py)**
+🔗 **[Abrir no Streamlit Cloud](https://estatistica-com-python.streamlit.app/)**
 
 ---
 
@@ -78,12 +78,9 @@ streamlit run estatistica.py
 5. **Abra no navegador:**
 http://localhost:8501
 
-
 ---
 
 💡 *Feito por fabinhoz com Python, Café ☕ e muita curiosidade por dados.*
-
-
 
 
 
